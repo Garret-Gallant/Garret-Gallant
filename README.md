@@ -8,10 +8,14 @@
 🎵 I'm a musician and love making apps that make sound.
 
 # My other relevant socials are noted below:
+
 https://www.linkedin.com/in/garret-gallant
+
 https://github.com/Garret-Gallant
+
 https://medium.com/@GarretGallant
-https://gallantsoftware.netlify.app/)
+
+https://gallantsoftware.netlify.app/
 
 <!---
 Garret-Gallant/Garret-Gallant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
