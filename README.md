@@ -15,7 +15,7 @@ https://github.com/Garret-Gallant
 
 https://medium.com/@GarretGallant
 
-https://gallantsoftware.netlify.app/
+https://gallantsoftware.dev
 
 <!---
 Garret-Gallant/Garret-Gallant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
