@@ -1,9 +1,9 @@
 # Welcome to my github
-👋 Hi, I’m @Garret-Gallant. \n
-👀 Fullstack Go + TS Developer working in Cloud Network Automation. \n
-🌱 I am Flatiron School Alumni (5.0 GPA in Fullstack Development using RoR and TSX) \n
-👨‍🎓 Pursuing my bachelors in CS/DSML (Double Major) @ MSU Denver (Current GPA: 3.2) \n
-🎵 I'm a musician and enjoy working with audio software. \n
+👋 Hi, I’m @Garret-Gallant. "\n"
+👀 Fullstack Go + TS Developer working in Cloud Network Automation. "\n"
+🌱 I am Flatiron School Alumni (5.0 GPA in Fullstack Development using RoR and TSX) "\n"
+👨‍🎓 Pursuing my bachelors in CS/DSML (Double Major) @ MSU Denver (Current GPA: 3.2) "\n"
+🎵 I'm a musician and enjoy working with audio software.
 
 # My other relevant socials are noted below:
 
