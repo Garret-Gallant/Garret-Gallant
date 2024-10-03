@@ -2,7 +2,7 @@
 👀 Fullstack Go + TS Developer working in Cloud Network Automation.
 🌱 I am Flatiron School Alumni (5.0 GPA in Fullstack Development using RoR and TSX)
 👨‍🎓 Pursuing my bachelors in CS/DSML (Double Major) @ MSU Denver (Current GPA: 3.2)
-🎵 I'm a musician and enjoy working with audio software.
+🎵 I'm a musician and enjoy working with audio technology.
 
 # My other relevant socials are noted below:
 
